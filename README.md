@@ -31,6 +31,12 @@ We use two publicly available ICU datasets:
 
 - **MIMIC-IV (v3.1)**  
 - **MIMIC-III (v1.4)** (non-overlapping subset)
+  
+1.Obtain access to the MIMIC-IV and MIMIC-III dataset by following the steps: https://mimic.mit.edu/docs/gettingstarted/
+  
+2.After receiving credentials, download the necessary files from the: 
+- https://physionet.org/content/mimiciv/3.1/
+- https://physionet.org/content/mimic3-carevue/1.4/
 
 ### Inclusion Criteria
 - Adult patients (≥18 years)
